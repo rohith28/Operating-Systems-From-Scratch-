@@ -1,0 +1,4 @@
+DiskA /home/os/Desktop/ProjectB/floppya.img
+ROM resource/bios.bin
+VideoROM resource/vgabios.bin
+MemoryContents /home/os/Desktop/ProjectB/floppya.img 0
