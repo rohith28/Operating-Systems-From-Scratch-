@@ -1,0 +1,10 @@
+
+
+Author:  Bina Maria
+
+To read files into memory and execute program, navigate to the project's root directory and type "chmod +x compileOS.sh" to make sure that your computer recognizes the shell file to build the project.
+Then, type "./compileOS.sh" to run the script. 
+ 
+By booting floopya.img to the same directory of the other OS files, the simulator will load the OS and say “Hello, Shell is Running!". The user can then type the command - type messag.  Their input will be finalized when they type the enter key. Now the message is loaded into memory and print out the contents. The user can now type the command - execute tstpr2. Once pressed enter key, tstpr2 will run, and print out its message.
+
+
