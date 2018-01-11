@@ -37,11 +37,11 @@ then you're ready to start the project.
 
 # Stages in Building the Operating System :
 
-1) Booting (Project_A)
-2) System Calls (Project_B)
-3) Loading Files and Executing programs (Project_C)
-4) Writing Files and Improving the Shell (Project_D)
-5) Processes and MultiTasking (Project_E)
+1) Booting (Project_A)(https://github.com/rohith28/Operating-Systems-From-Scratch-/tree/master/ProjectA)
+2) System Calls (Project_B) (https://github.com/rohith28/Operating-Systems-From-Scratch-/tree/master/ProjectB)
+3) Loading Files and Executing programs (Project_C) (https://github.com/rohith28/Operating-Systems-From-Scratch-/tree/master/ProjectC)
+4) Writing Files and Improving the Shell (Project_D) (https://github.com/rohith28/Operating-Systems-From-Scratch-/tree/master/ProjectD)
+5) Processes and MultiTasking (Project_E) (https://github.com/rohith28/Operating-Systems-From-Scratch-/tree/master/ProjectE)
 
 
 
